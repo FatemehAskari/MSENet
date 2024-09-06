@@ -27,11 +27,11 @@ Our model consists of the following components:
 
 The final model architecture is as follows:
 
-![Architecture of model](assets/Finalmodel.png)
+![Architecture of model](assets/finalmodel.png)
 
 The mapper architecture is as follows:
 
-![Architecture of mapper](assets/Mapper.png)
+![Architecture of mapper](assets/attention-module.png)
 
 You can study the model in more detail from this [PDF](finalreport.pdf).
 
