@@ -1,6 +1,7 @@
 # Enhancing-Few-Shot-Classification-through-Learnable-Multi-Scale-Embedding-and-Attention-Mechanisms
 Implementation of a Few-Shot Image Classification Model based on the Prototypical Network Model and Tested on the MiniImagenet and FC100 Datasets.
 
+
 ## Table of Contents
 
 1. [Project Description](#project-description)
