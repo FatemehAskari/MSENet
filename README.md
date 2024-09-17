@@ -1,6 +1,7 @@
 # Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms
 Implementation of a Few-Shot Image Classification Model based on the Prototypical Network Model and Tested on the MiniImagenet and FC100 Datasets.
 
+For more information, check out our paper on [[arXiv](https://arxiv.org/abs/2409.07989)].
 
 ## Table of Contents
 
@@ -93,3 +94,14 @@ https://github.com/sicara/easy-few-shot-learning
 https://github.com/heykeetae/Self-Attention-GAN
 
 https://github.com/yinboc/prototypical-network-pytorch
+
+
+## Citation
+If you use this repository in your work, please cite the following paper:
+```bibtex
+@article{askari2024enhancing,
+  title={Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms},
+  author={Askari, Fatemeh and Fateh, Amirreza and Mohammadi, Mohammad Reza},
+  journal={arXiv preprint arXiv:2409.07989},
+  year={2024}
+}
