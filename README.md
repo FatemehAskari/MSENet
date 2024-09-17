@@ -6,9 +6,11 @@ For more information, check out our paper on [[arXiv](https://arxiv.org/abs/2409
 ## Model
 
 Our model consists of the following components:
-1. We employed different feature spaces and extracted feature maps at five stages to capture both global and task-specific features.
-2. We integrated learnable parameter weights at each stage.
-3. We utilized a self-attention mechanism for each feature map obtained from every stage to capture more valuable information.
+1. We extracted five feature maps from backbone in order to capture both global and task specific features
+2. We employ a self-attention mechanism for each feature map obtained from every stage in order to capture more valuable information
+3. We incorporate learnable weights at each stage.
+4. We propose a novel few-shot classification. We have
+significantly improved the accuracy on the MiniImageNet and FC100 datasets.
 
 The final model architecture is as follows:
 
