@@ -32,6 +32,16 @@ For the 5-way 1-shot:
 ```bash
 python train.py --max-epoch 200 --save-epoch 20 --shot 1 --query 10 --train-way 20 --test-way 5 --save-path ./save/proto-1-change --gpu 0
 ```
+
+## Comparation
+
+![MiniImageNet](assets/table1.png)
+
+![FC100](assets/table2.png)
+
+### cross domain
+![CUB](assets/table3.png)
+
 ## Citation
 If you use this repository in your work, please cite the following paper:
 ```bibtex
