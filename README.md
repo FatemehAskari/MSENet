@@ -35,12 +35,12 @@ python train.py --max-epoch 200 --save-epoch 20 --shot 1 --query 10 --train-way 
 
 ## Comparation
 
-![MiniImageNet](assets/table1.jpg)
+![MiniImageNet](assets/table1.JPG)
 
-![FC100](assets/table2.jpg)
+![FC100](assets/table2.JPG)
 
 ### cross domain
-![CUB](assets/table3.jpg)
+![CUB](assets/table3.JPG)
 
 ## Citation
 If you use this repository in your work, please cite the following paper:
