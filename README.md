@@ -39,7 +39,6 @@ python train.py --max-epoch 200 --save-epoch 20 --shot 1 --query 10 --train-way 
 
 ![FC100](assets/table2.JPG)
 
-### cross domain
 ![CUB](assets/table3.JPG)
 
 ## Citation
