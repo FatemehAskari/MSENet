@@ -44,9 +44,12 @@ python train.py --max-epoch 200 --save-epoch 20 --shot 1 --query 10 --train-way 
 ## Citation
 If you use this repository in your work, please cite the following paper:
 ```bibtex
-@article{askari2024enhancing,
-  title={Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms},
+@article{askari2025enhancing,
+  title={Enhancing few-shot image classification through learnable multi-scale embedding and attention mechanisms},
   author={Askari, Fatemeh and Fateh, Amirreza and Mohammadi, Mohammad Reza},
-  journal={arXiv preprint arXiv:2409.07989},
-  year={2024}
+  journal={Neural Networks},
+  volume={187},
+  pages={107339},
+  year={2025},
+  publisher={Elsevier}
 }
